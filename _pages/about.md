@@ -14,14 +14,13 @@ I am a highly motivated student with strong research interests in statistics, ma
 
 # Research Interest
 - Time-Series Analysis
-- Machine Learning
 - Graph Neural Networks
+- Machine Learning
+- Deep Learning
 - AI for Science
 
 # News
 Aug 2025: I officially graduated from the UIUC with a Master’s degree in Statistics!
-
-Apr 2025: I joined Professor Yuzhou Chen's research group as a Research Intern!
 
 # Teaching
 Spring 2025, Course assistant in STAT510 Mathematical Statistics, UIUC
