@@ -18,7 +18,7 @@ Hi there! I am currently a Ph.D. student in Applied Statistics at the University
 
 
 # News
-- Oct 2026: Two paper accepted at IEEE BigData 2026! Congratulations to all my co-authors!
+- Oct 2026: Two papers accepted at IEEE BigData 2026! Congratulations to all my co-authors!
 - Sep 2026: Started my Ph.D. in Statistics at the University of California, Riverside (UCR).
 
 # Teaching
